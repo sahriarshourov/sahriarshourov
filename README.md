@@ -8,6 +8,8 @@
 🔹 Frontend Engineering with Next.js ⚛️  
 🔹 Backend & API Development with Python 🚀  
 🔹 Problem Solving & Algorithms 🧩 (Python, LeetCode)
+🔹 System Architecture & Scalable Design 🏗️  
+🔹 Open to new remote projects, freelance work & collaborations 🌍
 
 💡 I believe in building daily discipline through consistent learning and creative projects.  
 

@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Sahriar Shourov — a passionate developer, data analyst & software engineer from  🇧🇩
 
-<!--
-**sahriarshourov/sahriarshourov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I specialize in:
+  
+🔹 Python Programming (Core + Applied) 🐍  
+🔹 Data Analysis & Visualization 📊  
+  ▪ SQL 🧮 | Excel 📘 | Power BI 📈 | R 📐  
+🔹 Frontend Engineering with Next.js ⚛️  
+🔹 Backend & API Development with Python 🚀  
+🔹 Problem Solving & Algorithms 🧩 (Python, LeetCode)
 
-Here are some ideas to get you started:
+💡 I believe in building daily discipline through consistent learning and creative projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect & grow together → [linkedin.com/in/sahriarshourov](https://linkedin.com/in/sahriarshourov)
